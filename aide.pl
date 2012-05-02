@@ -1,6 +1,6 @@
 #!/bin/env perl
 # AIDE delivering mail report to systems administrators team.
-# This was test with RHEL4+.
+# This was test only with RHEL5+.
 # Copyright (C) 2008 Wilmer Jaramillo M. <wilmer@fedoraproject.org>
 #
 # This program is free software; you can redistribute it and/or modify
